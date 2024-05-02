@@ -1,0 +1,363 @@
+,Date,Name,Email,Amount,Time,IPAddress,TransactionMode,MonthEnd,Day,WeekDay,isParty,isFraud
+0,2023-07-01,Ibrahim,sulibrahim202@gmail.com,10,07:24:32,179.78.175.197,Bank Transfer,NormalDay,Saturday,Weekend,No,False
+1,2023-07-01,Ibrahim,sulibrahim202@gmail.com,25,15:15:51,80.111.139.82,Debit Card,NormalDay,Saturday,Weekend,No,False
+2,2023-07-01,billy,muchiuchiha@yahoo.com,3900,10:16:31,11.88.76.59,unknown,NormalDay,Saturday,Weekend,No,True
+3,2023-07-02,seun,muchiuchiha@yahoo.com,50,22:13:27,151.228.41.182,renewal,NormalDay,Sunday,Weekend,No,True
+4,2023-07-02,Ibrahim,sulibrahim202@gmail.com,5,23:58:12,218.12.47.131,Debit Card,NormalDay,Sunday,Weekend,No,False
+5,2023-07-03,billy,frigoglassmuti@xyz.app,2990,22:33:49,11.88.76.59,unknown,NormalDay,Monday,Workday,No,True
+6,2023-07-03,Ibrahim,sulibrahim202@gmail.com,12,12:40:57,26.51.167.24,Online Payment,NormalDay,Monday,Workday,No,False
+7,2023-07-03,molly,yukinaxyz@wechat.com,500,22:32:36,120.91.63.242,renewal,NormalDay,Monday,Workday,No,True
+8,2023-07-03,Ibrahim,sulibrahim202@gmail.com,5,22:45:56,126.121.246.110,Debit Card,NormalDay,Monday,Workday,No,False
+9,2023-07-04,Ibrahim,sulibrahim202@gmail.com,20,07:09:19,20.209.253.50,Debit Card,NormalDay,Tuesday,Workday,No,False
+10,2023-07-04,molly,billy4zone@recon.com,500,16:05:52,172.46.225.80,online purchase,NormalDay,Tuesday,Workday,No,True
+11,2023-07-04,Ibrahim,sulibrahim202@gmail.com,5,17:20:28,103.83.169.24,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+12,2023-07-04,Ibrahim,sulibrahim202@gmail.com,12,22:37:04,80.111.139.82,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+13,2023-07-05,Ibrahim,sulibrahim202@gmail.com,45,07:31:55,20.209.253.50,Online Payment,NormalDay,Wednesday,Workday,No,False
+14,2023-07-05,ibrahim,yukinaxyz@wechat.com,20000,10:34:05,151.228.41.182,dark web,NormalDay,Wednesday,Workday,No,True
+15,2023-07-05,Ibrahim,sulibrahim202@gmail.com,23,17:58:55,179.78.175.197,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+16,2023-07-05,migos,goebombarz@gmail.com,2990,16:35:45,49.153.223.13,online purchase,NormalDay,Wednesday,Workday,No,True
+17,2023-07-06,Ibrahim,sulibrahim202@gmail.com,23,07:26:06,80.111.139.82,Debit Card,NormalDay,Thursday,Workday,No,False
+18,2023-07-06,Ibrahim,sulibrahim202@gmail.com,5,12:22:19,103.83.169.24,Bank Transfer,NormalDay,Thursday,Workday,No,False
+19,2023-07-06,Ibrahim,sulibrahim202@gmail.com,20,17:02:14,20.209.253.50,Debit Card,NormalDay,Thursday,Workday,No,False
+20,2023-07-06,Ibrahim,sulibrahim202@gmail.com,45,22:18:12,152.58.149.138,Bank Transfer,NormalDay,Thursday,Workday,No,False
+21,2023-07-07,migos,yukinaxyz@wechat.com,49,23:28:17,11.88.76.59,one time payment,NormalDay,Friday,Workday,No,True
+22,2023-07-07,Ibrahim,sulibrahim202@gmail.com,45,11:48:38,26.51.167.24,Online Payment,NormalDay,Friday,Workday,No,False
+23,2023-07-07,Ibrahim,sulibrahim202@gmail.com,20,15:38:04,20.209.253.50,Debit Card,NormalDay,Friday,Workday,No,False
+24,2023-07-07,Ibrahim,sulibrahim202@gmail.com,23,19:19:06,80.111.139.82,Online Payment,NormalDay,Friday,Workday,No,False
+25,2023-07-07,Ibrahim,sulibrahim202@gmail.com,34,23:43:54,103.83.169.24,Debit Card,NormalDay,Friday,Workday,No,False
+26,2023-07-08,Ibrahim,sulibrahim202@gmail.com,10,07:02:44,44.154.58.200,Debit Card,NormalDay,Saturday,Weekend,No,False
+27,2023-07-08,Ibrahim,sulibrahim202@gmail.com,25,23:51:56,44.154.58.200,Debit Card,NormalDay,Saturday,Weekend,No,False
+28,2023-07-09,geotomz,billy4zone@recon.com,3000,16:24:31,83.29.94.120,unknown,NormalDay,Sunday,Weekend,Party,True
+29,2023-07-09,Ibrahim,sulibrahim202@gmail.com,40,15:17:28,84.69.172.191,Bank Transfer,NormalDay,Sunday,Weekend,Party,False
+30,2023-07-09,ibrahim,yukinaxyz@wechat.com,2990,23:32:46,83.29.94.120,unknown,NormalDay,Sunday,Weekend,Party,True
+31,2023-07-10,Ibrahim,sulibrahim202@gmail.com,20,07:25:47,152.58.149.138,Debit Card,NormalDay,Monday,Workday,No,False
+32,2023-07-10,Ibrahim,sulibrahim202@gmail.com,34,15:01:57,80.111.139.82,Debit Card,NormalDay,Monday,Workday,No,False
+33,2023-07-10,Ibrahim,sulibrahim202@gmail.com,45,23:40:10,126.121.246.110,Debit Card,NormalDay,Monday,Workday,No,False
+34,2023-07-11,Ibrahim,sulibrahim202@gmail.com,20,07:41:43,141.83.177.155,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+35,2023-07-11,Ibrahim,sulibrahim202@gmail.com,34,15:26:31,218.12.47.131,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+36,2023-07-11,Ibrahim,sulibrahim202@gmail.com,45,23:39:28,141.83.177.155,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+37,2023-07-12,migos,goebombarz@gmail.com,3000,10:33:29,94.141.219.106,one time payment,NormalDay,Wednesday,Workday,No,True
+38,2023-07-12,Ibrahim,sulibrahim202@gmail.com,12,15:15:30,80.111.139.82,Debit Card,NormalDay,Wednesday,Workday,No,False
+39,2023-07-12,Ibrahim,sulibrahim202@gmail.com,5,23:10:47,141.83.177.155,Online Payment,NormalDay,Wednesday,Workday,No,False
+40,2023-07-13,Ibrahim,sulibrahim202@gmail.com,12,07:13:06,84.69.172.191,Bank Transfer,NormalDay,Thursday,Workday,No,False
+41,2023-07-13,Ibrahim,sulibrahim202@gmail.com,45,11:40:26,20.209.253.50,Bank Transfer,NormalDay,Thursday,Workday,No,False
+42,2023-07-13,Ibrahim,sulibrahim202@gmail.com,5,15:05:58,218.12.47.131,Bank Transfer,NormalDay,Thursday,Workday,No,False
+43,2023-07-13,Ibrahim,sulibrahim202@gmail.com,23,19:52:57,126.121.246.110,Bank Transfer,NormalDay,Thursday,Workday,No,False
+44,2023-07-13,Ibrahim,sulibrahim202@gmail.com,20,23:06:59,179.78.175.197,Bank Transfer,NormalDay,Thursday,Workday,No,False
+45,2023-07-14,Ibrahim,sulibrahim202@gmail.com,23,07:05:15,179.78.175.197,Debit Card,NormalDay,Friday,Workday,No,False
+46,2023-07-14,billy,yukinaxyz@wechat.com,4400,23:26:18,94.141.219.106,one time payment,NormalDay,Friday,Workday,No,True
+47,2023-07-14,Ibrahim,sulibrahim202@gmail.com,5,17:16:38,84.69.172.191,Online Payment,NormalDay,Friday,Workday,No,False
+48,2023-07-14,Ibrahim,sulibrahim202@gmail.com,12,22:12:24,179.78.175.197,Bank Transfer,NormalDay,Friday,Workday,No,False
+49,2023-07-15,Ibrahim,sulibrahim202@gmail.com,10,07:43:47,44.154.58.200,Online Payment,NormalDay,Saturday,Weekend,No,False
+50,2023-07-15,Ibrahim,sulibrahim202@gmail.com,10,15:45:30,179.78.175.197,Bank Transfer,NormalDay,Saturday,Weekend,No,False
+51,2023-07-15,Ibrahim,sulibrahim202@gmail.com,40,23:19:36,26.51.167.24,Bank Transfer,NormalDay,Saturday,Weekend,No,False
+52,2023-07-16,Ibrahim,sulibrahim202@gmail.com,28,07:44:42,179.78.175.197,Online Payment,NormalDay,Sunday,Weekend,No,False
+53,2023-07-16,billy,billy4zone@recon.com,90,10:22:26,11.88.76.59,renewal,NormalDay,Sunday,Weekend,No,True
+54,2023-07-16,geotomz,goebombarz@gmail.com,70,10:12:32,49.153.223.13,one time payment,NormalDay,Sunday,Weekend,No,True
+55,2023-07-17,migos,goebombarz@gmail.com,4400,10:37:10,172.46.225.80,online purchase,NormalDay,Monday,Workday,No,True
+56,2023-07-17,Ibrahim,sulibrahim202@gmail.com,5,15:52:01,84.69.172.191,Debit Card,NormalDay,Monday,Workday,No,False
+57,2023-07-17,Ibrahim,sulibrahim202@gmail.com,45,23:27:03,84.69.172.191,Online Payment,NormalDay,Monday,Workday,No,False
+58,2023-07-18,Ibrahim,sulibrahim202@gmail.com,45,07:32:09,141.83.177.155,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+59,2023-07-18,Ibrahim,sulibrahim202@gmail.com,20,15:27:11,218.12.47.131,Online Payment,NormalDay,Tuesday,Workday,No,False
+60,2023-07-18,molly,billy4zone@recon.com,49,23:08:44,172.46.225.80,renewal,NormalDay,Tuesday,Workday,No,True
+61,2023-07-19,Ibrahim,sulibrahim202@gmail.com,5,07:59:25,20.209.253.50,Debit Card,NormalDay,Wednesday,Workday,No,False
+62,2023-07-19,Ibrahim,sulibrahim202@gmail.com,12,11:10:32,26.51.167.24,Debit Card,NormalDay,Wednesday,Workday,No,False
+63,2023-07-19,molly,goebombarz@gmail.com,70,22:50:57,49.153.223.13,online purchase,NormalDay,Wednesday,Workday,No,True
+64,2023-07-19,seun,muchiuchiha@yahoo.com,90,10:42:05,120.91.63.242,online purchase,NormalDay,Wednesday,Workday,No,True
+65,2023-07-19,Ibrahim,sulibrahim202@gmail.com,34,23:36:14,103.83.169.24,Online Payment,NormalDay,Wednesday,Workday,No,False
+66,2023-07-20,Ibrahim,sulibrahim202@gmail.com,20,07:35:53,44.154.58.200,Online Payment,NormalDay,Thursday,Workday,No,False
+67,2023-07-20,Ibrahim,sulibrahim202@gmail.com,23,11:52:37,80.111.139.82,Bank Transfer,NormalDay,Thursday,Workday,No,False
+68,2023-07-20,Ibrahim,sulibrahim202@gmail.com,12,15:07:41,26.51.167.24,Bank Transfer,NormalDay,Thursday,Workday,No,False
+69,2023-07-20,Ibrahim,sulibrahim202@gmail.com,45,19:27:54,103.83.169.24,Online Payment,NormalDay,Thursday,Workday,No,False
+70,2023-07-20,Ibrahim,sulibrahim202@gmail.com,5,23:03:50,179.78.175.197,Debit Card,NormalDay,Thursday,Workday,No,False
+71,2023-07-21,Ibrahim,sulibrahim202@gmail.com,23,07:07:50,179.78.175.197,Bank Transfer,NormalDay,Friday,Workday,No,False
+72,2023-07-21,seun,goebombarz@gmail.com,500,22:01:15,120.91.63.242,dark web,NormalDay,Friday,Workday,No,True
+73,2023-07-21,Ibrahim,sulibrahim202@gmail.com,12,15:42:31,126.121.246.110,Bank Transfer,NormalDay,Friday,Workday,No,False
+74,2023-07-21,Ibrahim,sulibrahim202@gmail.com,5,19:36:44,80.111.139.82,Online Payment,NormalDay,Friday,Workday,No,False
+75,2023-07-21,migos,billy4zone@recon.com,50,23:17:43,94.141.219.106,renewal,NormalDay,Friday,Workday,No,True
+76,2023-07-22,Ibrahim,sulibrahim202@gmail.com,40,07:14:44,126.121.246.110,Bank Transfer,NormalDay,Saturday,Weekend,No,False
+77,2023-07-22,Ibrahim,sulibrahim202@gmail.com,10,15:40:45,152.58.149.138,Debit Card,NormalDay,Saturday,Weekend,No,False
+78,2023-07-22,Ibrahim,sulibrahim202@gmail.com,10,23:45:47,84.69.172.191,Debit Card,NormalDay,Saturday,Weekend,No,False
+79,2023-07-23,Ibrahim,sulibrahim202@gmail.com,10,07:56:27,141.83.177.155,Bank Transfer,NormalDay,Sunday,Weekend,No,False
+80,2023-07-23,migos,yukinaxyz@wechat.com,3000,10:09:56,120.91.63.242,online purchase,NormalDay,Sunday,Weekend,No,True
+81,2023-07-24,Ibrahim,sulibrahim202@gmail.com,45,07:38:11,141.83.177.155,Bank Transfer,NormalDay,Monday,Workday,No,False
+82,2023-07-24,Ibrahim,sulibrahim202@gmail.com,34,11:22:45,126.121.246.110,Debit Card,NormalDay,Monday,Workday,No,False
+83,2023-07-24,Ibrahim,sulibrahim202@gmail.com,23,15:09:44,20.209.253.50,Bank Transfer,NormalDay,Monday,Workday,No,False
+84,2023-07-24,Ibrahim,sulibrahim202@gmail.com,20,19:18:25,126.121.246.110,Bank Transfer,NormalDay,Monday,Workday,No,False
+85,2023-07-24,migos,goebombarz@gmail.com,4400,10:20:37,11.88.76.59,unknown,NormalDay,Monday,Workday,No,True
+86,2023-07-25,Ibrahim,sulibrahim202@gmail.com,45,07:24:38,20.209.253.50,Online Payment,NormalDay,Tuesday,Workday,No,False
+87,2023-07-25,Ibrahim,sulibrahim202@gmail.com,23,15:08:15,152.58.149.138,Online Payment,NormalDay,Tuesday,Workday,No,False
+88,2023-07-25,Ibrahim,sulibrahim202@gmail.com,34,23:16:27,218.12.47.131,Online Payment,NormalDay,Tuesday,Workday,No,False
+89,2023-07-26,geotomz,frigoglassmuti@xyz.app,49,10:33:10,83.29.94.120,dark web,NormalDay,Wednesday,Workday,No,True
+90,2023-07-26,master,goebombarz@gmail.com,49,16:38:22,151.228.41.182,dark web,NormalDay,Wednesday,Workday,No,True
+91,2023-07-26,molly,billy4zone@recon.com,90,22:39:13,120.91.63.242,renewal,NormalDay,Wednesday,Workday,No,True
+92,2023-07-26,molly,billy4zone@recon.com,20000,22:01:34,83.29.94.120,renewal,NormalDay,Wednesday,Workday,No,True
+93,2023-07-27,Ibrahim,sulibrahim202@gmail.com,5,07:38:09,218.12.47.131,Online Payment,NormalDay,Thursday,Workday,No,False
+94,2023-07-27,Ibrahim,sulibrahim202@gmail.com,45,11:50:38,218.12.47.131,Online Payment,NormalDay,Thursday,Workday,No,False
+95,2023-07-27,seun,frigoglassmuti@xyz.app,20000,23:50:53,49.153.223.13,dark web,NormalDay,Thursday,Workday,No,True
+96,2023-07-27,Ibrahim,sulibrahim202@gmail.com,23,19:07:28,126.121.246.110,Debit Card,NormalDay,Thursday,Workday,No,False
+97,2023-07-27,Ibrahim,sulibrahim202@gmail.com,20,23:56:24,126.121.246.110,Bank Transfer,NormalDay,Thursday,Workday,No,False
+98,2023-07-28,seun,yukinaxyz@wechat.com,290,16:37:54,49.153.223.13,unknown,NormalDay,Friday,Workday,No,True
+99,2023-07-28,Ibrahim,sulibrahim202@gmail.com,45,15:27:24,26.51.167.24,Debit Card,NormalDay,Friday,Workday,No,False
+100,2023-07-28,geotomz,goebombarz@gmail.com,2990,22:38:27,151.228.41.182,online purchase,NormalDay,Friday,Workday,No,True
+101,2023-07-29,Ibrahim,sulibrahim202@gmail.com,70,07:43:47,126.121.246.110,Online Payment,NormalDay,Saturday,Weekend,Party,False
+102,2023-07-29,Ibrahim,sulibrahim202@gmail.com,70,15:22:15,152.58.149.138,Online Payment,NormalDay,Saturday,Weekend,Party,False
+103,2023-07-29,migos,billy4zone@recon.com,290,16:39:24,151.228.41.182,renewal,NormalDay,Saturday,Weekend,Party,True
+104,2023-07-30,Ibrahim,sulibrahim202@gmail.com,60,07:26:33,152.58.149.138,Online Payment,NormalDay,Sunday,Weekend,Party,False
+105,2023-07-30,billy,muchiuchiha@yahoo.com,70,10:57:39,151.228.41.182,renewal,NormalDay,Sunday,Weekend,Party,True
+106,2023-07-30,billy,billy4zone@recon.com,20000,22:57:39,11.88.76.59,one time payment,NormalDay,Sunday,Weekend,Party,True
+107,2023-07-31,molly,frigoglassmuti@xyz.app,20000,16:14:48,49.153.223.13,dark web,MonthEnd,Monday,Workday,No,True
+108,2023-07-31,ibrahim,billy4zone@recon.com,70,16:40:22,151.228.41.182,unknown,MonthEnd,Monday,Workday,No,True
+109,2023-07-31,Ibrahim,sulibrahim202@gmail.com,12,13:50:58,20.209.253.50,Online Payment,MonthEnd,Monday,Workday,No,False
+110,2023-07-31,Ibrahim,sulibrahim202@gmail.com,45,16:09:36,26.51.167.24,Bank Transfer,MonthEnd,Monday,Workday,No,False
+111,2023-07-31,Ibrahim,sulibrahim202@gmail.com,550,19:12:26,20.209.253.50,Online Payment,MonthEnd,Monday,Workday,No,False
+112,2023-07-31,migos,muchiuchiha@yahoo.com,1000,10:59:51,11.88.76.59,unknown,MonthEnd,Monday,Workday,No,True
+113,2023-08-01,Ibrahim,sulibrahim202@gmail.com,34,07:06:21,84.69.172.191,Online Payment,NormalDay,Tuesday,Workday,No,False
+114,2023-08-01,Ibrahim,sulibrahim202@gmail.com,23,11:18:01,179.78.175.197,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+115,2023-08-01,master,muchiuchiha@yahoo.com,90,10:21:44,172.46.225.80,one time payment,NormalDay,Tuesday,Workday,No,True
+116,2023-08-01,Ibrahim,sulibrahim202@gmail.com,45,19:15:17,141.83.177.155,Debit Card,NormalDay,Tuesday,Workday,No,False
+117,2023-08-01,geotomz,muchiuchiha@yahoo.com,4400,10:38:25,11.88.76.59,one time payment,NormalDay,Tuesday,Workday,No,True
+118,2023-08-02,seun,yukinaxyz@wechat.com,3000,10:00:44,83.29.94.120,dark web,NormalDay,Wednesday,Workday,No,True
+119,2023-08-02,Ibrahim,sulibrahim202@gmail.com,45,11:14:18,141.83.177.155,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+120,2023-08-02,Ibrahim,sulibrahim202@gmail.com,34,15:01:10,218.12.47.131,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+121,2023-08-02,Ibrahim,sulibrahim202@gmail.com,23,19:05:38,84.69.172.191,Debit Card,NormalDay,Wednesday,Workday,No,False
+122,2023-08-02,Ibrahim,sulibrahim202@gmail.com,5,23:19:14,26.51.167.24,Debit Card,NormalDay,Wednesday,Workday,No,False
+123,2023-08-03,Ibrahim,sulibrahim202@gmail.com,23,07:29:20,152.58.149.138,Online Payment,NormalDay,Thursday,Workday,No,False
+124,2023-08-03,Ibrahim,sulibrahim202@gmail.com,45,11:43:00,152.58.149.138,Bank Transfer,NormalDay,Thursday,Workday,No,False
+125,2023-08-03,Ibrahim,sulibrahim202@gmail.com,12,15:43:35,126.121.246.110,Online Payment,NormalDay,Thursday,Workday,No,False
+126,2023-08-03,Ibrahim,sulibrahim202@gmail.com,20,19:50:52,26.51.167.24,Debit Card,NormalDay,Thursday,Workday,No,False
+127,2023-08-03,ibrahim,billy4zone@recon.com,48900,22:17:36,172.46.225.80,unknown,NormalDay,Thursday,Workday,No,True
+128,2023-08-04,molly,yukinaxyz@wechat.com,70,16:51:36,49.153.223.13,renewal,NormalDay,Friday,Workday,No,True
+129,2023-08-04,Ibrahim,sulibrahim202@gmail.com,5,15:01:17,20.209.253.50,Online Payment,NormalDay,Friday,Workday,No,False
+130,2023-08-04,Ibrahim,sulibrahim202@gmail.com,45,23:26:11,26.51.167.24,Bank Transfer,NormalDay,Friday,Workday,No,False
+131,2023-08-05,Ibrahim,sulibrahim202@gmail.com,25,07:04:27,103.83.169.24,Bank Transfer,NormalDay,Saturday,Weekend,No,False
+132,2023-08-05,Ibrahim,sulibrahim202@gmail.com,10,23:43:07,20.209.253.50,Debit Card,NormalDay,Saturday,Weekend,No,False
+133,2023-08-06,seun,muchiuchiha@yahoo.com,3900,23:38:41,172.46.225.80,renewal,NormalDay,Sunday,Weekend,No,True
+134,2023-08-06,Ibrahim,sulibrahim202@gmail.com,30,23:15:57,126.121.246.110,Bank Transfer,NormalDay,Sunday,Weekend,No,False
+135,2023-08-07,Ibrahim,sulibrahim202@gmail.com,20,07:52:37,84.69.172.191,Debit Card,NormalDay,Monday,Workday,No,False
+136,2023-08-07,geotomz,frigoglassmuti@xyz.app,70,10:59:10,83.29.94.120,renewal,NormalDay,Monday,Workday,No,True
+137,2023-08-07,migos,goebombarz@gmail.com,2990,22:32:46,120.91.63.242,dark web,NormalDay,Monday,Workday,No,True
+138,2023-08-07,ibrahim,yukinaxyz@wechat.com,4400,16:57:47,172.46.225.80,renewal,NormalDay,Monday,Workday,No,True
+139,2023-08-08,Ibrahim,sulibrahim202@gmail.com,23,07:36:41,126.121.246.110,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+140,2023-08-08,Ibrahim,sulibrahim202@gmail.com,34,12:00:20,141.83.177.155,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+141,2023-08-08,Ibrahim,sulibrahim202@gmail.com,20,17:17:48,126.121.246.110,Debit Card,NormalDay,Tuesday,Workday,No,False
+142,2023-08-08,Ibrahim,sulibrahim202@gmail.com,45,22:45:24,126.121.246.110,Online Payment,NormalDay,Tuesday,Workday,No,False
+143,2023-08-09,Ibrahim,sulibrahim202@gmail.com,45,07:24:52,141.83.177.155,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+144,2023-08-09,Ibrahim,sulibrahim202@gmail.com,5,15:15:47,141.83.177.155,Debit Card,NormalDay,Wednesday,Workday,No,False
+145,2023-08-09,Ibrahim,sulibrahim202@gmail.com,12,23:33:15,141.83.177.155,Debit Card,NormalDay,Wednesday,Workday,No,False
+146,2023-08-10,Ibrahim,sulibrahim202@gmail.com,12,07:05:59,80.111.139.82,Online Payment,NormalDay,Thursday,Workday,No,False
+147,2023-08-10,geotomz,yukinaxyz@wechat.com,49,10:33:16,151.228.41.182,dark web,NormalDay,Thursday,Workday,No,True
+148,2023-08-10,Ibrahim,sulibrahim202@gmail.com,23,23:34:20,126.121.246.110,Bank Transfer,NormalDay,Thursday,Workday,No,False
+149,2023-08-11,Ibrahim,sulibrahim202@gmail.com,20,07:59:36,80.111.139.82,Debit Card,NormalDay,Friday,Workday,No,False
+150,2023-08-11,master,goebombarz@gmail.com,500,10:58:28,172.46.225.80,renewal,NormalDay,Friday,Workday,No,True
+151,2023-08-11,Ibrahim,sulibrahim202@gmail.com,45,17:38:53,218.12.47.131,Debit Card,NormalDay,Friday,Workday,No,False
+152,2023-08-11,Ibrahim,sulibrahim202@gmail.com,34,22:45:36,126.121.246.110,Debit Card,NormalDay,Friday,Workday,No,False
+153,2023-08-12,Ibrahim,sulibrahim202@gmail.com,10,07:40:38,44.154.58.200,Debit Card,NormalDay,Saturday,Weekend,No,False
+154,2023-08-12,billy,frigoglassmuti@xyz.app,49,16:07:27,11.88.76.59,renewal,NormalDay,Saturday,Weekend,No,True
+155,2023-08-12,Ibrahim,sulibrahim202@gmail.com,40,23:06:43,103.83.169.24,Online Payment,NormalDay,Saturday,Weekend,No,False
+156,2023-08-13,Ibrahim,sulibrahim202@gmail.com,20,07:50:28,44.154.58.200,Bank Transfer,NormalDay,Sunday,Weekend,No,False
+157,2023-08-13,billy,frigoglassmuti@xyz.app,2990,10:34:03,151.228.41.182,dark web,NormalDay,Sunday,Weekend,No,True
+158,2023-08-13,geotomz,muchiuchiha@yahoo.com,3000,10:33:09,83.29.94.120,one time payment,NormalDay,Sunday,Weekend,No,True
+159,2023-08-14,Ibrahim,sulibrahim202@gmail.com,5,07:08:43,84.69.172.191,Debit Card,NormalDay,Monday,Workday,No,False
+160,2023-08-14,Ibrahim,sulibrahim202@gmail.com,20,15:01:29,103.83.169.24,Online Payment,NormalDay,Monday,Workday,No,False
+161,2023-08-14,molly,goebombarz@gmail.com,48900,22:50:31,151.228.41.182,renewal,NormalDay,Monday,Workday,No,True
+162,2023-08-15,Ibrahim,sulibrahim202@gmail.com,23,07:24:58,80.111.139.82,Debit Card,NormalDay,Tuesday,Workday,No,False
+163,2023-08-15,master,muchiuchiha@yahoo.com,50,16:50:08,94.141.219.106,dark web,NormalDay,Tuesday,Workday,No,True
+164,2023-08-15,Ibrahim,sulibrahim202@gmail.com,20,17:40:52,179.78.175.197,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+165,2023-08-15,Ibrahim,sulibrahim202@gmail.com,45,22:17:43,218.12.47.131,Online Payment,NormalDay,Tuesday,Workday,No,False
+166,2023-08-16,Ibrahim,sulibrahim202@gmail.com,45,07:08:56,126.121.246.110,Debit Card,NormalDay,Wednesday,Workday,No,False
+167,2023-08-16,ibrahim,goebombarz@gmail.com,3000,10:02:28,172.46.225.80,dark web,NormalDay,Wednesday,Workday,No,True
+168,2023-08-16,seun,frigoglassmuti@xyz.app,3900,10:59:42,94.141.219.106,dark web,NormalDay,Wednesday,Workday,No,True
+169,2023-08-17,molly,muchiuchiha@yahoo.com,90,23:40:24,120.91.63.242,dark web,NormalDay,Thursday,Workday,No,True
+170,2023-08-17,Ibrahim,sulibrahim202@gmail.com,45,12:39:04,218.12.47.131,Bank Transfer,NormalDay,Thursday,Workday,No,False
+171,2023-08-17,ibrahim,muchiuchiha@yahoo.com,500,10:38:23,151.228.41.182,unknown,NormalDay,Thursday,Workday,No,True
+172,2023-08-17,Ibrahim,sulibrahim202@gmail.com,23,22:54:29,152.58.149.138,Debit Card,NormalDay,Thursday,Workday,No,False
+173,2023-08-18,geotomz,muchiuchiha@yahoo.com,3900,22:10:57,94.141.219.106,unknown,NormalDay,Friday,Workday,No,True
+174,2023-08-18,Ibrahim,sulibrahim202@gmail.com,45,15:58:08,218.12.47.131,Online Payment,NormalDay,Friday,Workday,No,False
+175,2023-08-18,Ibrahim,sulibrahim202@gmail.com,34,23:20:45,26.51.167.24,Online Payment,NormalDay,Friday,Workday,No,False
+176,2023-08-19,Ibrahim,sulibrahim202@gmail.com,30,07:00:34,126.121.246.110,Debit Card,NormalDay,Saturday,Weekend,No,False
+177,2023-08-19,Ibrahim,sulibrahim202@gmail.com,5,23:54:40,26.51.167.24,Debit Card,NormalDay,Saturday,Weekend,No,False
+178,2023-08-20,Ibrahim,sulibrahim202@gmail.com,10,07:02:11,141.83.177.155,Online Payment,NormalDay,Sunday,Weekend,Party,False
+179,2023-08-20,Ibrahim,sulibrahim202@gmail.com,70,15:47:06,179.78.175.197,Bank Transfer,NormalDay,Sunday,Weekend,Party,False
+180,2023-08-20,Ibrahim,sulibrahim202@gmail.com,70,23:18:13,84.69.172.191,Bank Transfer,NormalDay,Sunday,Weekend,Party,False
+181,2023-08-21,migos,yukinaxyz@wechat.com,50,16:30:05,94.141.219.106,online purchase,NormalDay,Monday,Workday,No,True
+182,2023-08-21,Ibrahim,sulibrahim202@gmail.com,23,12:30:28,179.78.175.197,Bank Transfer,NormalDay,Monday,Workday,No,False
+183,2023-08-21,Ibrahim,sulibrahim202@gmail.com,45,17:45:24,218.12.47.131,Bank Transfer,NormalDay,Monday,Workday,No,False
+184,2023-08-21,Ibrahim,sulibrahim202@gmail.com,20,22:42:04,126.121.246.110,Bank Transfer,NormalDay,Monday,Workday,No,False
+185,2023-08-22,Ibrahim,sulibrahim202@gmail.com,23,07:55:03,44.154.58.200,Online Payment,NormalDay,Tuesday,Workday,No,False
+186,2023-08-22,Ibrahim,sulibrahim202@gmail.com,34,11:08:50,44.154.58.200,Online Payment,NormalDay,Tuesday,Workday,No,False
+187,2023-08-22,Ibrahim,sulibrahim202@gmail.com,12,15:02:23,44.154.58.200,Debit Card,NormalDay,Tuesday,Workday,No,False
+188,2023-08-22,seun,goebombarz@gmail.com,48900,10:00:15,94.141.219.106,one time payment,NormalDay,Tuesday,Workday,No,True
+189,2023-08-22,Ibrahim,sulibrahim202@gmail.com,45,23:34:50,103.83.169.24,Debit Card,NormalDay,Tuesday,Workday,No,False
+190,2023-08-23,Ibrahim,sulibrahim202@gmail.com,12,07:31:26,44.154.58.200,Debit Card,NormalDay,Wednesday,Workday,No,False
+191,2023-08-23,Ibrahim,sulibrahim202@gmail.com,23,12:13:20,179.78.175.197,Debit Card,NormalDay,Wednesday,Workday,No,False
+192,2023-08-23,Ibrahim,sulibrahim202@gmail.com,5,17:07:05,44.154.58.200,Online Payment,NormalDay,Wednesday,Workday,No,False
+193,2023-08-23,Ibrahim,sulibrahim202@gmail.com,34,22:11:28,26.51.167.24,Debit Card,NormalDay,Wednesday,Workday,No,False
+194,2023-08-24,molly,muchiuchiha@yahoo.com,70,10:21:05,172.46.225.80,dark web,NormalDay,Thursday,Workday,No,True
+195,2023-08-24,Ibrahim,sulibrahim202@gmail.com,45,11:03:40,80.111.139.82,Online Payment,NormalDay,Thursday,Workday,No,False
+196,2023-08-24,Ibrahim,sulibrahim202@gmail.com,20,15:06:55,103.83.169.24,Debit Card,NormalDay,Thursday,Workday,No,False
+197,2023-08-24,Ibrahim,sulibrahim202@gmail.com,34,19:25:08,218.12.47.131,Online Payment,NormalDay,Thursday,Workday,No,False
+198,2023-08-24,Ibrahim,sulibrahim202@gmail.com,23,23:43:21,84.69.172.191,Debit Card,NormalDay,Thursday,Workday,No,False
+199,2023-08-25,migos,goebombarz@gmail.com,3000,22:17:06,151.228.41.182,one time payment,NormalDay,Friday,Workday,No,True
+200,2023-08-25,Ibrahim,sulibrahim202@gmail.com,20,15:19:29,84.69.172.191,Online Payment,NormalDay,Friday,Workday,No,False
+201,2023-08-25,seun,muchiuchiha@yahoo.com,90,10:10:51,172.46.225.80,renewal,NormalDay,Friday,Workday,No,True
+202,2023-08-26,migos,billy4zone@recon.com,70,22:27:11,151.228.41.182,renewal,NormalDay,Saturday,Weekend,No,True
+203,2023-08-26,Ibrahim,sulibrahim202@gmail.com,10,23:57:15,80.111.139.82,Debit Card,NormalDay,Saturday,Weekend,No,False
+204,2023-08-27,migos,yukinaxyz@wechat.com,49,10:44:33,49.153.223.13,unknown,NormalDay,Sunday,Weekend,Party,True
+205,2023-08-27,Ibrahim,sulibrahim202@gmail.com,60,15:29:09,126.121.246.110,Debit Card,NormalDay,Sunday,Weekend,Party,False
+206,2023-08-27,Ibrahim,sulibrahim202@gmail.com,60,23:30:57,152.58.149.138,Debit Card,NormalDay,Sunday,Weekend,Party,False
+207,2023-08-28,ibrahim,muchiuchiha@yahoo.com,3000,22:17:54,83.29.94.120,unknown,NormalDay,Monday,Workday,No,True
+208,2023-08-28,master,billy4zone@recon.com,70,10:15:42,151.228.41.182,online purchase,NormalDay,Monday,Workday,No,True
+209,2023-08-28,Ibrahim,sulibrahim202@gmail.com,45,17:29:27,20.209.253.50,Debit Card,NormalDay,Monday,Workday,No,False
+210,2023-08-28,Ibrahim,sulibrahim202@gmail.com,23,22:17:36,44.154.58.200,Bank Transfer,NormalDay,Monday,Workday,No,False
+211,2023-08-29,Ibrahim,sulibrahim202@gmail.com,45,07:36:53,20.209.253.50,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+212,2023-08-29,Ibrahim,sulibrahim202@gmail.com,23,15:46:08,26.51.167.24,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+213,2023-08-29,Ibrahim,sulibrahim202@gmail.com,34,23:07:24,141.83.177.155,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+214,2023-08-30,Ibrahim,sulibrahim202@gmail.com,23,07:25:23,218.12.47.131,Debit Card,NormalDay,Wednesday,Workday,No,False
+215,2023-08-30,Ibrahim,sulibrahim202@gmail.com,20,12:29:55,80.111.139.82,Debit Card,NormalDay,Wednesday,Workday,No,False
+216,2023-08-30,Ibrahim,sulibrahim202@gmail.com,5,17:16:06,141.83.177.155,Debit Card,NormalDay,Wednesday,Workday,No,False
+217,2023-08-30,Ibrahim,sulibrahim202@gmail.com,12,22:47:15,141.83.177.155,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+218,2023-08-31,ibrahim,yukinaxyz@wechat.com,70,10:08:31,151.228.41.182,renewal,MonthEnd,Thursday,Workday,No,True
+219,2023-08-31,molly,muchiuchiha@yahoo.com,70,10:17:41,172.46.225.80,dark web,MonthEnd,Thursday,Workday,No,True
+220,2023-08-31,Ibrahim,sulibrahim202@gmail.com,34,11:24:17,103.83.169.24,Online Payment,MonthEnd,Thursday,Workday,No,False
+221,2023-08-31,Ibrahim,sulibrahim202@gmail.com,20,13:00:50,84.69.172.191,Debit Card,MonthEnd,Thursday,Workday,No,False
+222,2023-08-31,Ibrahim,sulibrahim202@gmail.com,12,15:18:19,84.69.172.191,Bank Transfer,MonthEnd,Thursday,Workday,No,False
+223,2023-08-31,Ibrahim,sulibrahim202@gmail.com,40,17:53:51,218.12.47.131,Bank Transfer,MonthEnd,Thursday,Workday,No,False
+224,2023-08-31,Ibrahim,sulibrahim202@gmail.com,1500,19:58:13,20.209.253.50,Debit Card,MonthEnd,Thursday,Workday,No,False
+225,2023-09-01,billy,yukinaxyz@wechat.com,50,23:08:46,94.141.219.106,renewal,NormalDay,Friday,Workday,No,True
+226,2023-09-01,Ibrahim,sulibrahim202@gmail.com,5,11:02:50,44.154.58.200,Online Payment,NormalDay,Friday,Workday,No,False
+227,2023-09-01,Ibrahim,sulibrahim202@gmail.com,20,15:02:33,179.78.175.197,Debit Card,NormalDay,Friday,Workday,No,False
+228,2023-09-01,billy,billy4zone@recon.com,49,23:53:39,49.153.223.13,one time payment,NormalDay,Friday,Workday,No,True
+229,2023-09-01,Ibrahim,sulibrahim202@gmail.com,12,23:58:19,20.209.253.50,Debit Card,NormalDay,Friday,Workday,No,False
+230,2023-09-02,Ibrahim,sulibrahim202@gmail.com,40,07:12:17,218.12.47.131,Debit Card,NormalDay,Saturday,Weekend,Party,False
+231,2023-09-02,Ibrahim,sulibrahim202@gmail.com,10,15:54:37,152.58.149.138,Debit Card,NormalDay,Saturday,Weekend,Party,False
+232,2023-09-02,Ibrahim,sulibrahim202@gmail.com,60,23:35:28,84.69.172.191,Debit Card,NormalDay,Saturday,Weekend,Party,False
+233,2023-09-03,Ibrahim,sulibrahim202@gmail.com,10,07:01:25,141.83.177.155,Debit Card,NormalDay,Sunday,Weekend,No,False
+234,2023-09-03,Ibrahim,sulibrahim202@gmail.com,28,23:03:25,84.69.172.191,Online Payment,NormalDay,Sunday,Weekend,No,False
+235,2023-09-04,Ibrahim,sulibrahim202@gmail.com,20,07:52:18,152.58.149.138,Bank Transfer,NormalDay,Monday,Workday,No,False
+236,2023-09-04,Ibrahim,sulibrahim202@gmail.com,23,15:33:45,218.12.47.131,Debit Card,NormalDay,Monday,Workday,No,False
+237,2023-09-04,Ibrahim,sulibrahim202@gmail.com,5,23:32:08,20.209.253.50,Debit Card,NormalDay,Monday,Workday,No,False
+238,2023-09-05,Ibrahim,sulibrahim202@gmail.com,45,07:31:48,80.111.139.82,Debit Card,NormalDay,Tuesday,Workday,No,False
+239,2023-09-05,Ibrahim,sulibrahim202@gmail.com,12,12:41:57,26.51.167.24,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+240,2023-09-05,Ibrahim,sulibrahim202@gmail.com,34,17:56:39,80.111.139.82,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+241,2023-09-05,Ibrahim,sulibrahim202@gmail.com,23,22:21:05,26.51.167.24,Debit Card,NormalDay,Tuesday,Workday,No,False
+242,2023-09-06,migos,billy4zone@recon.com,500,16:45:21,49.153.223.13,unknown,NormalDay,Wednesday,Workday,No,True
+243,2023-09-06,master,muchiuchiha@yahoo.com,70,22:53:13,83.29.94.120,dark web,NormalDay,Wednesday,Workday,No,True
+244,2023-09-06,Ibrahim,sulibrahim202@gmail.com,5,15:04:06,126.121.246.110,Debit Card,NormalDay,Wednesday,Workday,No,False
+245,2023-09-06,molly,frigoglassmuti@xyz.app,1000,22:57:18,83.29.94.120,dark web,NormalDay,Wednesday,Workday,No,True
+246,2023-09-06,master,yukinaxyz@wechat.com,50,10:53:47,172.46.225.80,renewal,NormalDay,Wednesday,Workday,No,True
+247,2023-09-07,seun,muchiuchiha@yahoo.com,3900,23:56:01,83.29.94.120,unknown,NormalDay,Thursday,Workday,No,True
+248,2023-09-07,Ibrahim,sulibrahim202@gmail.com,45,12:06:18,141.83.177.155,Bank Transfer,NormalDay,Thursday,Workday,No,False
+249,2023-09-07,Ibrahim,sulibrahim202@gmail.com,12,17:07:14,218.12.47.131,Bank Transfer,NormalDay,Thursday,Workday,No,False
+250,2023-09-07,seun,billy4zone@recon.com,50,10:14:14,151.228.41.182,unknown,NormalDay,Thursday,Workday,No,True
+251,2023-09-08,seun,billy4zone@recon.com,3000,10:44:13,151.228.41.182,one time payment,NormalDay,Friday,Workday,No,True
+252,2023-09-08,Ibrahim,sulibrahim202@gmail.com,20,11:54:10,20.209.253.50,Bank Transfer,NormalDay,Friday,Workday,No,False
+253,2023-09-08,Ibrahim,sulibrahim202@gmail.com,12,15:52:09,26.51.167.24,Online Payment,NormalDay,Friday,Workday,No,False
+254,2023-09-08,Ibrahim,sulibrahim202@gmail.com,23,19:44:04,20.209.253.50,Debit Card,NormalDay,Friday,Workday,No,False
+255,2023-09-08,Ibrahim,sulibrahim202@gmail.com,34,23:57:55,126.121.246.110,Bank Transfer,NormalDay,Friday,Workday,No,False
+256,2023-09-09,Ibrahim,sulibrahim202@gmail.com,70,07:33:45,20.209.253.50,Debit Card,NormalDay,Saturday,Weekend,Party,False
+257,2023-09-09,Ibrahim,sulibrahim202@gmail.com,50,15:00:01,179.78.175.197,Debit Card,NormalDay,Saturday,Weekend,Party,False
+258,2023-09-09,molly,yukinaxyz@wechat.com,20000,10:03:41,120.91.63.242,renewal,NormalDay,Saturday,Weekend,Party,True
+259,2023-09-10,Ibrahim,sulibrahim202@gmail.com,10,07:29:58,80.111.139.82,Bank Transfer,NormalDay,Sunday,Weekend,No,False
+260,2023-09-10,Ibrahim,sulibrahim202@gmail.com,30,15:29:51,141.83.177.155,Debit Card,NormalDay,Sunday,Weekend,No,False
+261,2023-09-10,Ibrahim,sulibrahim202@gmail.com,10,23:19:59,20.209.253.50,Debit Card,NormalDay,Sunday,Weekend,No,False
+262,2023-09-11,Ibrahim,sulibrahim202@gmail.com,45,07:09:09,103.83.169.24,Bank Transfer,NormalDay,Monday,Workday,No,False
+263,2023-09-11,Ibrahim,sulibrahim202@gmail.com,34,11:11:15,179.78.175.197,Online Payment,NormalDay,Monday,Workday,No,False
+264,2023-09-11,Ibrahim,sulibrahim202@gmail.com,12,15:32:49,20.209.253.50,Bank Transfer,NormalDay,Monday,Workday,No,False
+265,2023-09-11,Ibrahim,sulibrahim202@gmail.com,20,19:34:34,218.12.47.131,Bank Transfer,NormalDay,Monday,Workday,No,False
+266,2023-09-11,master,frigoglassmuti@xyz.app,20000,22:20:34,151.228.41.182,one time payment,NormalDay,Monday,Workday,No,True
+267,2023-09-12,Ibrahim,sulibrahim202@gmail.com,23,07:40:44,179.78.175.197,Online Payment,NormalDay,Tuesday,Workday,No,False
+268,2023-09-12,Ibrahim,sulibrahim202@gmail.com,12,15:08:16,80.111.139.82,Debit Card,NormalDay,Tuesday,Workday,No,False
+269,2023-09-12,molly,yukinaxyz@wechat.com,50,16:33:08,172.46.225.80,dark web,NormalDay,Tuesday,Workday,No,True
+270,2023-09-13,Ibrahim,sulibrahim202@gmail.com,5,07:53:57,152.58.149.138,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+271,2023-09-13,master,muchiuchiha@yahoo.com,2990,23:36:44,49.153.223.13,online purchase,NormalDay,Wednesday,Workday,No,True
+272,2023-09-13,Ibrahim,sulibrahim202@gmail.com,20,17:10:08,44.154.58.200,Debit Card,NormalDay,Wednesday,Workday,No,False
+273,2023-09-13,Ibrahim,sulibrahim202@gmail.com,12,22:07:11,103.83.169.24,Debit Card,NormalDay,Wednesday,Workday,No,False
+274,2023-09-14,Ibrahim,sulibrahim202@gmail.com,23,07:00:50,141.83.177.155,Debit Card,NormalDay,Thursday,Workday,No,False
+275,2023-09-14,Ibrahim,sulibrahim202@gmail.com,45,15:10:57,84.69.172.191,Online Payment,NormalDay,Thursday,Workday,No,False
+276,2023-09-14,Ibrahim,sulibrahim202@gmail.com,34,23:54:00,141.83.177.155,Online Payment,NormalDay,Thursday,Workday,No,False
+277,2023-09-15,Ibrahim,sulibrahim202@gmail.com,20,07:18:29,20.209.253.50,Bank Transfer,NormalDay,Friday,Workday,No,False
+278,2023-09-15,master,billy4zone@recon.com,2990,16:35:59,49.153.223.13,dark web,NormalDay,Friday,Workday,No,True
+279,2023-09-15,Ibrahim,sulibrahim202@gmail.com,23,17:36:27,44.154.58.200,Debit Card,NormalDay,Friday,Workday,No,False
+280,2023-09-15,Ibrahim,sulibrahim202@gmail.com,12,22:47:37,20.209.253.50,Bank Transfer,NormalDay,Friday,Workday,No,False
+281,2023-09-16,Ibrahim,sulibrahim202@gmail.com,10,07:55:54,179.78.175.197,Debit Card,NormalDay,Saturday,Weekend,No,False
+282,2023-09-16,Ibrahim,sulibrahim202@gmail.com,40,15:51:51,179.78.175.197,Debit Card,NormalDay,Saturday,Weekend,No,False
+283,2023-09-16,Ibrahim,sulibrahim202@gmail.com,20,23:12:10,80.111.139.82,Online Payment,NormalDay,Saturday,Weekend,No,False
+284,2023-09-17,Ibrahim,sulibrahim202@gmail.com,10,07:25:11,44.154.58.200,Online Payment,NormalDay,Sunday,Weekend,No,False
+285,2023-09-17,Ibrahim,sulibrahim202@gmail.com,50,23:48:51,44.154.58.200,Debit Card,NormalDay,Sunday,Weekend,No,False
+286,2023-09-18,Ibrahim,sulibrahim202@gmail.com,12,07:26:33,218.12.47.131,Online Payment,NormalDay,Monday,Workday,No,False
+287,2023-09-18,Ibrahim,sulibrahim202@gmail.com,23,12:40:15,80.111.139.82,Bank Transfer,NormalDay,Monday,Workday,No,False
+288,2023-09-18,Ibrahim,sulibrahim202@gmail.com,34,17:07:14,80.111.139.82,Bank Transfer,NormalDay,Monday,Workday,No,False
+289,2023-09-18,Ibrahim,sulibrahim202@gmail.com,20,22:40:42,126.121.246.110,Online Payment,NormalDay,Monday,Workday,No,False
+290,2023-09-19,Ibrahim,sulibrahim202@gmail.com,45,07:52:06,80.111.139.82,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+291,2023-09-19,Ibrahim,sulibrahim202@gmail.com,23,12:23:41,126.121.246.110,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+292,2023-09-19,molly,goebombarz@gmail.com,48900,22:55:00,120.91.63.242,renewal,NormalDay,Tuesday,Workday,No,True
+293,2023-09-19,Ibrahim,sulibrahim202@gmail.com,34,22:48:46,20.209.253.50,Online Payment,NormalDay,Tuesday,Workday,No,False
+294,2023-09-20,Ibrahim,sulibrahim202@gmail.com,20,07:56:56,152.58.149.138,Debit Card,NormalDay,Wednesday,Workday,No,False
+295,2023-09-20,master,muchiuchiha@yahoo.com,90,10:29:14,94.141.219.106,one time payment,NormalDay,Wednesday,Workday,No,True
+296,2023-09-20,molly,muchiuchiha@yahoo.com,1000,23:46:59,172.46.225.80,online purchase,NormalDay,Wednesday,Workday,No,True
+297,2023-09-20,Ibrahim,sulibrahim202@gmail.com,23,22:31:43,80.111.139.82,Online Payment,NormalDay,Wednesday,Workday,No,False
+298,2023-09-21,master,muchiuchiha@yahoo.com,2990,10:06:15,120.91.63.242,renewal,NormalDay,Thursday,Workday,No,True
+299,2023-09-21,Ibrahim,sulibrahim202@gmail.com,12,12:04:31,20.209.253.50,Online Payment,NormalDay,Thursday,Workday,No,False
+300,2023-09-21,Ibrahim,sulibrahim202@gmail.com,34,17:02:25,179.78.175.197,Debit Card,NormalDay,Thursday,Workday,No,False
+301,2023-09-21,Ibrahim,sulibrahim202@gmail.com,20,22:20:56,152.58.149.138,Online Payment,NormalDay,Thursday,Workday,No,False
+302,2023-09-22,Ibrahim,sulibrahim202@gmail.com,5,07:40:07,103.83.169.24,Debit Card,NormalDay,Friday,Workday,No,False
+303,2023-09-22,molly,yukinaxyz@wechat.com,4400,16:34:48,172.46.225.80,dark web,NormalDay,Friday,Workday,No,True
+304,2023-09-22,Ibrahim,sulibrahim202@gmail.com,12,17:18:59,80.111.139.82,Online Payment,NormalDay,Friday,Workday,No,False
+305,2023-09-22,Ibrahim,sulibrahim202@gmail.com,34,22:23:52,218.12.47.131,Online Payment,NormalDay,Friday,Workday,No,False
+306,2023-09-23,seun,muchiuchiha@yahoo.com,3900,23:28:50,120.91.63.242,unknown,NormalDay,Saturday,Weekend,No,True
+307,2023-09-23,Ibrahim,sulibrahim202@gmail.com,30,15:06:53,84.69.172.191,Bank Transfer,NormalDay,Saturday,Weekend,No,False
+308,2023-09-23,Ibrahim,sulibrahim202@gmail.com,25,23:31:39,20.209.253.50,Debit Card,NormalDay,Saturday,Weekend,No,False
+309,2023-09-24,Ibrahim,sulibrahim202@gmail.com,60,07:50:23,179.78.175.197,Bank Transfer,NormalDay,Sunday,Weekend,Party,False
+310,2023-09-24,Ibrahim,sulibrahim202@gmail.com,70,15:35:09,20.209.253.50,Debit Card,NormalDay,Sunday,Weekend,Party,False
+311,2023-09-24,Ibrahim,sulibrahim202@gmail.com,50,23:05:02,44.154.58.200,Online Payment,NormalDay,Sunday,Weekend,Party,False
+312,2023-09-25,Ibrahim,sulibrahim202@gmail.com,34,07:39:31,44.154.58.200,Online Payment,NormalDay,Monday,Workday,No,False
+313,2023-09-25,Ibrahim,sulibrahim202@gmail.com,45,15:50:40,218.12.47.131,Bank Transfer,NormalDay,Monday,Workday,No,False
+314,2023-09-25,Ibrahim,sulibrahim202@gmail.com,20,23:32:45,84.69.172.191,Bank Transfer,NormalDay,Monday,Workday,No,False
+315,2023-09-26,Ibrahim,sulibrahim202@gmail.com,45,07:06:15,179.78.175.197,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+316,2023-09-26,Ibrahim,sulibrahim202@gmail.com,5,12:12:18,44.154.58.200,Debit Card,NormalDay,Tuesday,Workday,No,False
+317,2023-09-26,seun,muchiuchiha@yahoo.com,20000,16:46:44,120.91.63.242,online purchase,NormalDay,Tuesday,Workday,No,True
+318,2023-09-26,geotomz,yukinaxyz@wechat.com,2990,10:30:16,94.141.219.106,dark web,NormalDay,Tuesday,Workday,No,True
+319,2023-09-27,Ibrahim,sulibrahim202@gmail.com,45,07:39:25,20.209.253.50,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+320,2023-09-27,Ibrahim,sulibrahim202@gmail.com,20,12:18:06,103.83.169.24,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+321,2023-09-27,Ibrahim,sulibrahim202@gmail.com,12,17:42:43,44.154.58.200,Online Payment,NormalDay,Wednesday,Workday,No,False
+322,2023-09-27,Ibrahim,sulibrahim202@gmail.com,5,22:08:05,20.209.253.50,Bank Transfer,NormalDay,Wednesday,Workday,No,False
+323,2023-09-28,Ibrahim,sulibrahim202@gmail.com,34,07:52:37,44.154.58.200,Online Payment,NormalDay,Thursday,Workday,No,False
+324,2023-09-28,Ibrahim,sulibrahim202@gmail.com,23,15:47:20,126.121.246.110,Debit Card,NormalDay,Thursday,Workday,No,False
+325,2023-09-28,Ibrahim,sulibrahim202@gmail.com,12,23:47:42,141.83.177.155,Debit Card,NormalDay,Thursday,Workday,No,False
+326,2023-09-29,Ibrahim,sulibrahim202@gmail.com,12,07:33:18,126.121.246.110,Debit Card,NormalDay,Friday,Workday,No,False
+327,2023-09-29,Ibrahim,sulibrahim202@gmail.com,20,11:34:47,44.154.58.200,Online Payment,NormalDay,Friday,Workday,No,False
+328,2023-09-29,Ibrahim,sulibrahim202@gmail.com,45,15:35:19,179.78.175.197,Online Payment,NormalDay,Friday,Workday,No,False
+329,2023-09-29,Ibrahim,sulibrahim202@gmail.com,5,19:45:05,80.111.139.82,Bank Transfer,NormalDay,Friday,Workday,No,False
+330,2023-09-29,migos,goebombarz@gmail.com,290,16:01:24,83.29.94.120,online purchase,NormalDay,Friday,Workday,No,True
+331,2023-09-30,Ibrahim,sulibrahim202@gmail.com,5,07:39:57,44.154.58.200,Debit Card,MonthEnd,Saturday,Weekend,No,False
+332,2023-09-30,Ibrahim,sulibrahim202@gmail.com,25,11:18:49,103.83.169.24,Online Payment,MonthEnd,Saturday,Weekend,No,False
+333,2023-09-30,seun,yukinaxyz@wechat.com,90,23:42:37,172.46.225.80,renewal,MonthEnd,Saturday,Weekend,No,True
+334,2023-09-30,Ibrahim,sulibrahim202@gmail.com,550,19:49:34,84.69.172.191,Online Payment,MonthEnd,Saturday,Weekend,No,False
+335,2023-09-30,migos,yukinaxyz@wechat.com,4400,10:08:10,94.141.219.106,renewal,MonthEnd,Saturday,Weekend,No,True
+336,2023-10-01,molly,frigoglassmuti@xyz.app,50,23:57:03,11.88.76.59,dark web,NormalDay,Sunday,Weekend,Party,True
+337,2023-10-01,Ibrahim,sulibrahim202@gmail.com,70,15:06:24,218.12.47.131,Debit Card,NormalDay,Sunday,Weekend,Party,False
+338,2023-10-01,migos,muchiuchiha@yahoo.com,50,10:24:07,49.153.223.13,one time payment,NormalDay,Sunday,Weekend,Party,True
+339,2023-10-02,seun,yukinaxyz@wechat.com,2990,22:55:30,94.141.219.106,one time payment,NormalDay,Monday,Workday,No,True
+340,2023-10-02,Ibrahim,sulibrahim202@gmail.com,45,12:46:00,126.121.246.110,Online Payment,NormalDay,Monday,Workday,No,False
+341,2023-10-02,Ibrahim,sulibrahim202@gmail.com,5,17:10:23,103.83.169.24,Online Payment,NormalDay,Monday,Workday,No,False
+342,2023-10-02,Ibrahim,sulibrahim202@gmail.com,23,22:24:30,80.111.139.82,Debit Card,NormalDay,Monday,Workday,No,False
+343,2023-10-03,molly,goebombarz@gmail.com,3900,16:06:56,49.153.223.13,unknown,NormalDay,Tuesday,Workday,No,True
+344,2023-10-03,Ibrahim,sulibrahim202@gmail.com,12,15:16:35,84.69.172.191,Bank Transfer,NormalDay,Tuesday,Workday,No,False
+345,2023-10-03,master,goebombarz@gmail.com,48900,10:08:51,83.29.94.120,online purchase,NormalDay,Tuesday,Workday,No,True
+346,2023-10-04,seun,muchiuchiha@yahoo.com,4400,23:14:26,172.46.225.80,unknown,NormalDay,Wednesday,Workday,No,True
+347,2023-10-04,Ibrahim,sulibrahim202@gmail.com,45,12:10:29,84.69.172.191,Online Payment,NormalDay,Wednesday,Workday,No,False
+348,2023-10-04,Ibrahim,sulibrahim202@gmail.com,5,17:28:38,84.69.172.191,Debit Card,NormalDay,Wednesday,Workday,No,False
+349,2023-10-04,seun,yukinaxyz@wechat.com,50,16:41:44,83.29.94.120,renewal,NormalDay,Wednesday,Workday,No,True
+350,2023-10-05,Ibrahim,sulibrahim202@gmail.com,12,07:13:02,218.12.47.131,Debit Card,NormalDay,Thursday,Workday,No,False
+351,2023-10-05,Ibrahim,sulibrahim202@gmail.com,23,11:57:45,152.58.149.138,Debit Card,NormalDay,Thursday,Workday,No,False
+352,2023-10-05,Ibrahim,sulibrahim202@gmail.com,20,15:24:16,179.78.175.197,Debit Card,NormalDay,Thursday,Workday,No,False
+353,2023-10-05,Ibrahim,sulibrahim202@gmail.com,34,19:09:03,84.69.172.191,Debit Card,NormalDay,Thursday,Workday,No,False
+354,2023-10-05,molly,frigoglassmuti@xyz.app,4400,22:35:07,11.88.76.59,unknown,NormalDay,Thursday,Workday,No,True
+355,2023-10-06,ibrahim,yukinaxyz@wechat.com,20000,23:22:42,94.141.219.106,renewal,NormalDay,Friday,Workday,No,True
+356,2023-10-06,Ibrahim,sulibrahim202@gmail.com,45,12:03:13,103.83.169.24,Online Payment,NormalDay,Friday,Workday,No,False
+357,2023-10-06,Ibrahim,sulibrahim202@gmail.com,12,17:46:49,84.69.172.191,Online Payment,NormalDay,Friday,Workday,No,False
+358,2023-10-06,master,billy4zone@recon.com,1000,16:54:01,83.29.94.120,renewal,NormalDay,Friday,Workday,No,True
+359,2023-10-07,Ibrahim,sulibrahim202@gmail.com,40,07:15:55,20.209.253.50,Bank Transfer,NormalDay,Saturday,Weekend,No,False
+360,2023-10-07,Ibrahim,sulibrahim202@gmail.com,40,15:41:33,179.78.175.197,Bank Transfer,NormalDay,Saturday,Weekend,No,False
+361,2023-10-07,Ibrahim,sulibrahim202@gmail.com,20,23:58:58,26.51.167.24,Bank Transfer,NormalDay,Saturday,Weekend,No,False

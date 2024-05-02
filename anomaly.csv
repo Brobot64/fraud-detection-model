@@ -1,0 +1,38 @@
+,Name,Email,Amount,Time,IPAddress,TransactionMode,isFraud
+0,geotomz,yukinaxyz@wechat.com,50,09:17:38,151.228.41.182,online purchase,True
+1,ibrahim,billy4zone@recon.com,20000,23:29:09,94.141.219.106,dark web,True
+2,seun,billy4zone@recon.com,20000,09:01:09,94.141.219.106,one time payment,True
+3,molly,goebombarz@gmail.com,3000,23:09:43,151.228.41.182,online purchase,True
+4,billy,yukinaxyz@wechat.com,48900,09:32:17,11.88.76.59,dark web,True
+5,ibrahim,goebombarz@gmail.com,90,23:00:09,151.228.41.182,dark web,True
+6,billy,goebombarz@gmail.com,20000,09:17:36,11.88.76.59,dark web,True
+7,migos,yukinaxyz@wechat.com,70,16:41:01,49.153.223.13,unknown,True
+8,ibrahim,yukinaxyz@wechat.com,3000,23:13:51,94.141.219.106,unknown,True
+9,master,frigoglassmuti@xyz.app,3900,09:23:57,120.91.63.242,online purchase,True
+10,billy,goebombarz@gmail.com,70,23:53:18,120.91.63.242,online purchase,True
+11,geotomz,frigoglassmuti@xyz.app,1000,09:55:01,172.46.225.80,unknown,True
+12,ibrahim,frigoglassmuti@xyz.app,2990,16:34:12,172.46.225.80,renewal,True
+13,master,goebombarz@gmail.com,1000,23:52:12,49.153.223.13,dark web,True
+14,master,goebombarz@gmail.com,49,09:20:45,11.88.76.59,one time payment,True
+15,molly,yukinaxyz@wechat.com,3900,16:40:13,83.29.94.120,one time payment,True
+16,migos,frigoglassmuti@xyz.app,1000,23:34:43,94.141.219.106,renewal,True
+17,ibrahim,muchiuchiha@yahoo.com,49,09:16:33,49.153.223.13,online purchase,True
+18,ibrahim,muchiuchiha@yahoo.com,49,16:42:18,94.141.219.106,unknown,True
+19,ibrahim,billy4zone@recon.com,2990,23:29:27,83.29.94.120,dark web,True
+20,ibrahim,billy4zone@recon.com,2990,09:56:41,83.29.94.120,online purchase,True
+21,migos,billy4zone@recon.com,49,16:11:13,11.88.76.59,renewal,True
+22,seun,goebombarz@gmail.com,1000,23:36:32,151.228.41.182,renewal,True
+23,seun,frigoglassmuti@xyz.app,70,09:03:35,120.91.63.242,dark web,True
+24,master,frigoglassmuti@xyz.app,70,23:00:22,172.46.225.80,renewal,True
+25,billy,billy4zone@recon.com,500,09:05:18,83.29.94.120,one time payment,True
+26,migos,frigoglassmuti@xyz.app,2990,23:34:33,83.29.94.120,one time payment,True
+27,seun,frigoglassmuti@xyz.app,4400,09:23:27,120.91.63.242,one time payment,True
+28,master,muchiuchiha@yahoo.com,48900,16:15:22,172.46.225.80,one time payment,True
+29,migos,frigoglassmuti@xyz.app,3900,23:18:51,94.141.219.106,unknown,True
+30,migos,yukinaxyz@wechat.com,49,09:09:00,172.46.225.80,unknown,True
+31,ibrahim,yukinaxyz@wechat.com,70,16:52:01,151.228.41.182,renewal,True
+32,billy,billy4zone@recon.com,50,23:27:54,83.29.94.120,unknown,True
+33,migos,yukinaxyz@wechat.com,2990,09:02:16,49.153.223.13,unknown,True
+34,master,muchiuchiha@yahoo.com,70,23:39:23,11.88.76.59,unknown,True
+35,geotomz,goebombarz@gmail.com,4400,09:52:58,11.88.76.59,dark web,True
+36,geotomz,billy4zone@recon.com,48900,23:24:37,172.46.225.80,unknown,True
